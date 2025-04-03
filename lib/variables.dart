@@ -7,4 +7,10 @@ void main(List<String> args){
 
   const pi = 3.145;
   print(pi);
+
+  int age = 24;
+  print(age);
+
+  double price = 120.0;
+  print(price);
 }
