@@ -15,7 +15,7 @@ void main(List<String> args){
   int age = 24;
   print(age);
 
-  int? teachers; // Can be nullable - ?
+  int? teachers; // Can be nullable - ?, To create a nullable variable
 
   double price = 120.0;
   print(price);
